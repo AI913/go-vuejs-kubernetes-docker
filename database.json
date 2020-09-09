@@ -1,0 +1,10 @@
+{
+    "dev": {
+      "host": "localhost",
+      "user": "test",
+      "password" : "test",
+      "database": "govuekuber",
+      "driver": "mysql",
+      "multipleStatements": true
+    }
+  }
